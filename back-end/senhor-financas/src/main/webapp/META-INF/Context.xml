@@ -3,7 +3,7 @@
 	<Resource
 		name="SenhorFinancas" auth="Container" type="javax.sql.DataSource"
 		maxTotal="10" maxIdle="10" maxWaitMillis="10000"
-		username="root" password="88090060" driverClassName="com.mysql.cj.jdbc.Driver"
+		username="" password="" driverClassName="com.mysql.cj.jdbc.Driver"
 		url="jdbc:mysql://localhost:3306/dbsenhorfinancas"
 	/>
 
